@@ -107,7 +107,7 @@
       cursor: pointer;
     }
 
-    a:visited{
+    /* a:visited{
         color:white;
       }
       a:hover{
@@ -115,4 +115,4 @@
       }
       a:focus{
         color:green;
-      }
+      } */
